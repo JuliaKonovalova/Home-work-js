@@ -1,0 +1,26 @@
+{
+  "name": "webpack-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhoreho/JS-Freedom_2022-2023.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhoreho/JS-Freedom_2022-2023/issues"
+  },
+  "homepage": "https://github.com/vhoreho/JS-Freedom_2022-2023#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
